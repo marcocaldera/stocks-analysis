@@ -1,1 +1,3 @@
-# stocks-analysis
+# Stocks Analysis
+
+Notebooks containing analysis for stocks and crypto
